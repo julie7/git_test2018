@@ -2,4 +2,8 @@ hello world!
 edit!
 hello git hub!
 modify file~
+<<<<<<< HEAD
 동기화!!
+=======
+git test!! 2018
+>>>>>>> adc9151135dc85f552d20e850cdc13796d3076fc
